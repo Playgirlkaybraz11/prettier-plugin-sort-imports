@@ -38,7 +38,7 @@
     "@babel/traverse": "7.23.2",
     "@babel/types": "7.17.0",
     "javascript-natural-sort": "0.7.1",
-    "lodash": "^4.17.21"
+    "lodash": "^4.17.23"
   },
   "devDependencies": {
     "@babel/core": "^7.20.7",
